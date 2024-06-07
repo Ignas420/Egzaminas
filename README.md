@@ -4,6 +4,7 @@
 Ši užduotis demonstruoja asociatyvių konteinerių efektyvumą, palyginti su sekos konteineriais, sprendžiant tam tikras problemas.
 
 **Užduoties Aprašymas**
+
 Žodžių dažnumo skaičiavimas:
 
 Analizuoti tekstą (ne mažiau nei 1000 žodžių) ir suskaičiuoti kiekvieno skirtingo žodžio pasikartojimų skaičių.
