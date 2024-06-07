@@ -5,7 +5,7 @@
 
 **Užduoties Aprašymas**
 
-Žodžių dažnumo skaičiavimas:
+**Žodžių dažnumo skaičiavimas:**
 
 Analizuoti tekstą (ne mažiau nei 1000 žodžių) ir suskaičiuoti kiekvieno skirtingo žodžio pasikartojimų skaičių.
 Išvesti žodžius, kurie pasikartoja daugiau nei vieną kartą, kartu su jų skaičiais, į išorinį failą.
